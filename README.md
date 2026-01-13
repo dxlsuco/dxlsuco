@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Yanick Dalsuco
 
-<!--
-**dxlsuco/dxlsuco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedor Full Stack • Web • Redes**  
+JavaScript | Vue.js | React | Node.js | PHP | SQL | HTML | CSS
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=dxlsuco&color=blue&style=flat-square)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mim
+
+Sou um desenvolvedor focado em criar aplicações modernas, performáticas e bem estruturadas.  
+Tenho experiência em front-end, back-end e uma base forte em **redes e infraestrutura**.
+
+Transformo ideias em soluções reais.
+
+---
+
+## 🧠 Tecnologias & Ferramentas
+
+![Skills](https://skillicons.dev/icons?i=js,vue,react,nodejs,php,html,css,bootstrap,sql,git,github,linux)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dxlsuco&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxlsuco&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|------------|
+| [PaginaSuplementos](https://dxlsuco.github.io/PaginaSuplementos/) | Website moderno para apresentação de suplementos | HTML, CSS, JavaScript |
+| [ProjectoAndroid](https://dxlsuco.github.io/ProjectoAndroid/) | Landing page temática inspirada em Android | HTML, CSS, JavaScript |
+| [ProjectoCordel](https://dxlsuco.github.io/ProjectoCordel/) | Projeto visual com efeito paralaxe | HTML, CSS |
+
+
+## 🛰️ Conhecimentos em Redes
+
+- TCP/IP, DNS, DHCP, HTTP/HTTPS  
+- Sub-redes, VLANs, Roteamento  
+- Deploy, Servidores, Segurança básica
+
+---
+
+## 📫 Contato
+
+- GitHub: https://github.com/dxlsuco  
+- Email: yanick.silvino12@gmail.com
+
+
+*Construindo soluções com código e criatividade.*
