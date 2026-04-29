@@ -1,7 +1,8 @@
 # 👋 Olá, eu sou o Yanick Dalsuco
 
-**Desenvolvedor Full Stack • Web • Redes**  
-JavaScript | Vue.js | React | Node.js | PHP | SQL | HTML | CSS
+**Desenvolvedor Full Stack • Web • Mobile • Redes e Infraestrutura**
+
+JavaScript | TypeScript | PHP | Java | Dart | SQL
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dxlsuco&color=blue&style=flat-square)
 
@@ -9,48 +10,89 @@ JavaScript | Vue.js | React | Node.js | PHP | SQL | HTML | CSS
 
 ## 🚀 Sobre mim
 
-Sou um desenvolvedor focado em criar aplicações modernas, performáticas e bem estruturadas.  
-Tenho experiência em front-end, back-end e uma base forte em **redes e infraestrutura**.
+Sou desenvolvedor Full Stack focado na criação de aplicações web e mobile modernas, escaláveis e orientadas a performance.
 
-Transformo ideias em soluções reais.
+Trabalho no desenvolvimento de soluções completas, desde interfaces front-end até APIs e lógica de back-end, com experiência também em aplicações mobile.
+
+Tenho uma base sólida em **redes e infraestrutura de sistemas**, o que me permite compreender melhor como aplicações funcionam em ambientes distribuídos, comunicação entre serviços e conceitos de segurança.
+
+Tenho interesse em:
+- Desenvolvimento Web e Mobile
+- Arquitetura de sistemas
+- APIs REST e microserviços
+- Segurança de aplicações (Cybersecurity)
 
 ---
 
-## 🧠 Tecnologias & Ferramentas
+## 🧠 Tecnologias & Frameworks
 
-![Skills](https://skillicons.dev/icons?i=js,vue,react,nodejs,php,html,css,bootstrap,sql,git,github,linux)
+### 🔹 Linguagens
+![Skills](https://skillicons.dev/icons?i=js,ts,php,java,dart,sql)
+
+---
+
+### 🔹 Front-end
+![Skills](https://skillicons.dev/icons?i=vue,react,angular,bootstrap,tailwind,vite)
+
+---
+
+### 🔹 Back-end
+![Skills](https://skillicons.dev/icons?i=nodejs,express,spring,laravel)
+
+---
+
+### 🔹 Mobile
+![Skills](https://skillicons.dev/icons?i=flutter)
+
+---
+
+### 🔹 Bases de dados
+![Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)
+
+---
+
+### 🔹 Ferramentas & DevOps
+![Skills](https://skillicons.dev/icons?i=git,github,linux,docker,vscode)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dxlsuco&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxlsuco&layout=compact&theme=tokyonight)
+### 🔹 Estatísticas gerais
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dxlsuco&show_icons=true&theme=tokyonight&count_private=true)
+
+### 🔹 Linguagens mais usadas
+*(Baseado nos meus repositórios públicos no GitHub)*
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxlsuco&layout=compact&langs_count=12&count_private=true&theme=tokyonight)
 
 ---
 
-## 🌐 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|------------|
-| [PaginaSuplementos](https://dxlsuco.github.io/PaginaSuplementos/) | Website moderno para apresentação de suplementos | HTML, CSS, JavaScript |
-| [ProjectoAndroid](https://dxlsuco.github.io/ProjectoAndroid/) | Landing page temática inspirada em Android | HTML, CSS, JavaScript |
-| [ProjectoCordel](https://dxlsuco.github.io/ProjectoCordel/) | Projeto visual com efeito paralaxe | HTML, CSS |
-| [ProjectoYDcars](https://dxlsuco.github.io/YDCars/) | Loja de carros com efeito 3D | HTML, CSS, JavaScript |
-
-
-## 🛰️ Conhecimentos em Redes
+## 🛰️ Redes & Infraestrutura
 
 - TCP/IP, DNS, DHCP, HTTP/HTTPS  
-- Sub-redes, VLANs, Roteamento  
-- Deploy, Servidores, Segurança básica
+- Sub-redes e VLANs  
+- Conceitos de redes distribuídas  
+- Configuração básica de servidores Linux  
+- Noções de segurança em redes e aplicações web  
+
+---
+
+## 📈 Objetivos atuais
+
+- Evoluir como Full Stack & Mobile Developer  
+- Aprofundar em **Node.js, Express e Spring Boot**  
+- Melhorar competências em **Angular e Flutter**  
+- Explorar arquitetura de microserviços  
+- Crescer na área de Cybersecurity  
 
 ---
 
 ## 📫 Contato
 
 - GitHub: https://github.com/dxlsuco  
-- Email: yanick.silvino12@gmail.com
+- Email: yanick.silvino12@gmail.com  
 
+---
 
-*Construindo soluções com código e criatividade.*
+*Construindo soluções digitais com código, arquitetura e visão de engenharia de software.*
