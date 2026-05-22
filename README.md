@@ -95,7 +95,7 @@ const yanick = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-dxlsuco-181717?style=for-the-badge&logo=github)](https://github.com/dxlsuco)
-[![Email](https://img.shields.io/badge/Gmail-yanick.silvino12-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yanick.silvino12@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-yanick.silvino12@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yanick.silvino12@gmail.com)
 
 </div>
 
